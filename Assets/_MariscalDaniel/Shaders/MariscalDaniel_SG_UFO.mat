@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-7993977750618015378
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 7
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MariscalDaniel_SG_UFO
+  m_Shader: {fileID: -6465566751694194690, guid: d84afb03ed4c7214784fa36213d47c9b,
+    type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _CubeMapTex:
+        m_Texture: {fileID: 8900000, guid: 43435ea272d13ec42a5e07741f6701b0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Emissive:
+        m_Texture: {fileID: 2800000, guid: 5706ff5051056e44ca899d4e67dc96e6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 018f641fbc4782e44ba606b86a8cb2b5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NoiseDirection:
+        m_Texture: {fileID: 2800000, guid: 46e156772997aea4da4bfe4b30a78efa, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NoiseTexture:
+        m_Texture: {fileID: 2800000, guid: 95c2d3b005948884da506cd25958e7dc, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 2800000, guid: ecb2c4bc2108c9e479f9fe810c90aa47, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_56601415e8a54ebe94c9ab11b1b2a23f_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 1bf56f58a3a6cf041bfd6adf4a14ec3b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_a195500f745c42cc89c7292d06e9c038_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 46e156772997aea4da4bfe4b30a78efa, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_e7797f68fa7a4315a4566983f94eff6c_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 95c2d3b005948884da506cd25958e7dc, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _BlurOffset: 0.06
+    - _EmissiveOnInvisible: 0
+    - _FlipFresnel: 0
+    - _FresnelAffectsNormal: 1
+    - _FresnelIntensity: -0.46
+    - _HDBlur: 0
+    - _IsBlurOn: 1
+    - _LightNormalStrenght: 0.3
+    - _Metallic: 0
+    - _MidPoint: 0.598
+    - _NoiseStrenght: 0.124
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _Range: 0.088
+    - _RefractionIntensity: 0.9
+    - _RefractionPower: 1.2
+    - _Roughness: 0.097
+    m_Colors:
+    - _ColorTint: {r: 1, g: 1, b: 1, a: 0}
+    - _EmissiveColor: {r: 2.608068, g: 0, b: 2.6082385, a: 0}
+    - _FresnelColor: {r: 1, g: 0.11935278, b: 0, a: 0}
+    - _MainColor: {r: 1, g: 1, b: 1, a: 0}
+    - _MainEmissiveColor: {r: 0, g: 11.819938, b: 14.754429, a: 0}
+    - _NoiseSpeed: {r: 0.5, g: 0.5, b: 0, a: 0}
+    - _TileAndOffset: {r: 1, g: 1, b: 0, a: 0}
+    - _Tiling: {r: 5.08, g: 5.99, b: 0, a: 0}
+  m_BuildTextureStacks: []
