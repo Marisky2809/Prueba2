@@ -1,0 +1,567 @@
+fileFormatVersion: 2
+guid: 1435359ee13ca69489f7ed1725a75834
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 190
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: caminata personaje principal Cursed Locks_0
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 3340
+        width: 253
+        height: 881
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61dea1ce07794a646a77658423ac7251
+      internalID: -510370494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminata personaje principal Cursed Locks_1
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 3340
+        width: 251
+        height: 881
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed550a8bfd163c34e976e471dd030e31
+      internalID: 1307094338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminata personaje principal Cursed Locks_2
+      rect:
+        serializedVersion: 2
+        x: 2570
+        y: 3340
+        width: 253
+        height: 881
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84688f32c591b784ea31dde9a630990c
+      internalID: -1878822616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminata personaje principal Cursed Locks_3
+      rect:
+        serializedVersion: 2
+        x: 3661
+        y: 3346
+        width: 232
+        height: 875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f41389230052640b5048ecfa63022b
+      internalID: -1694146249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminata personaje principal Cursed Locks_4
+      rect:
+        serializedVersion: 2
+        x: 4742
+        y: 3346
+        width: 230
+        height: 875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965d552efa294b7439405f29c7c1023e
+      internalID: -341093423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminata personaje principal Cursed Locks_5
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 2264
+        width: 232
+        height: 878
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e147b1ab28f1f242a11d4c7db59c82a
+      internalID: 630494516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminata personaje principal Cursed Locks_6
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 2264
+        width: 269
+        height: 873
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1546f068517f8645b34a9a0f1ad66b2
+      internalID: -474412761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminata personaje principal Cursed Locks_7
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 2264
+        width: 269
+        height: 873
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5883e86ee82284585f54a842287d58
+      internalID: 888496424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminata personaje principal Cursed Locks_8
+      rect:
+        serializedVersion: 2
+        x: 3666
+        y: 2264
+        width: 267
+        height: 873
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da8dee748433be4b8eab2304d611e5a
+      internalID: -1106494959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminata personaje principal Cursed Locks_9
+      rect:
+        serializedVersion: 2
+        x: 4734
+        y: 2275
+        width: 274
+        height: 859
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99511b2c939c89048ae473e0efc8f0d7
+      internalID: -1000051094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminata personaje principal Cursed Locks_10
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1194
+        width: 273
+        height: 859
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd33062abe817248a6a4f3e29b37a45
+      internalID: -873172185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminata personaje principal Cursed Locks_11
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 1194
+        width: 274
+        height: 859
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df45ddd83dae33847b2b786155f66ba2
+      internalID: -1117029916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminata personaje principal Cursed Locks_12
+      rect:
+        serializedVersion: 2
+        x: 2570
+        y: 1194
+        width: 255
+        height: 862
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca74365cda683a43a8afa9929b5e63d
+      internalID: -2117750750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminata personaje principal Cursed Locks_13
+      rect:
+        serializedVersion: 2
+        x: 3651
+        y: 1194
+        width: 255
+        height: 862
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c658d94b76cae11449724ae5a75f5f50
+      internalID: 1385632565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminata personaje principal Cursed Locks_14
+      rect:
+        serializedVersion: 2
+        x: 4729
+        y: 1194
+        width: 256
+        height: 862
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e21f140c6cbf6c4b9ee9276a304e687
+      internalID: -1082994719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminata personaje principal Cursed Locks_15
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 115
+        width: 279
+        height: 867
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb86f22b4133e494cbd9099861b49ce5
+      internalID: 897099554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminata personaje principal Cursed Locks_16
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 115
+        width: 280
+        height: 867
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1980256bb056e408ae10f8f5d4062a
+      internalID: 792645311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminata personaje principal Cursed Locks_17
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 115
+        width: 280
+        height: 867
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b126d7add3cc8054296cbfa9e8a03dc7
+      internalID: 593692742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminata personaje principal Cursed Locks_18
+      rect:
+        serializedVersion: 2
+        x: 3627
+        y: 107
+        width: 295
+        height: 870
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca07b3dea3803149bee297d2b74ad03
+      internalID: 505913145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminata personaje principal Cursed Locks_19
+      rect:
+        serializedVersion: 2
+        x: 4708
+        y: 107
+        width: 295
+        height: 870
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e363de6961433ed49801ebfbf5f3cee5
+      internalID: 984281466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      caminata personaje principal Cursed Locks_0: -510370494
+      caminata personaje principal Cursed Locks_1: 1307094338
+      caminata personaje principal Cursed Locks_10: -873172185
+      caminata personaje principal Cursed Locks_11: -1117029916
+      caminata personaje principal Cursed Locks_12: -2117750750
+      caminata personaje principal Cursed Locks_13: 1385632565
+      caminata personaje principal Cursed Locks_14: -1082994719
+      caminata personaje principal Cursed Locks_15: 897099554
+      caminata personaje principal Cursed Locks_16: 792645311
+      caminata personaje principal Cursed Locks_17: 593692742
+      caminata personaje principal Cursed Locks_18: 505913145
+      caminata personaje principal Cursed Locks_19: 984281466
+      caminata personaje principal Cursed Locks_2: -1878822616
+      caminata personaje principal Cursed Locks_3: -1694146249
+      caminata personaje principal Cursed Locks_4: -341093423
+      caminata personaje principal Cursed Locks_5: 630494516
+      caminata personaje principal Cursed Locks_6: -474412761
+      caminata personaje principal Cursed Locks_7: 888496424
+      caminata personaje principal Cursed Locks_8: -1106494959
+      caminata personaje principal Cursed Locks_9: -1000051094
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,655 @@
+fileFormatVersion: 2
+guid: ecc6428ca1e6a524a9e2eea7b9749e56
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 190
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Correr personaje principal cursed locks_0
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 4423
+        width: 337
+        height: 846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b14a7c7f9b8f974fa5087051327b2c9
+      internalID: -255627113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Correr personaje principal cursed locks_1
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 4423
+        width: 338
+        height: 846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346345df3ead74a49bb5ef4867346eb2
+      internalID: -1347168289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Correr personaje principal cursed locks_2
+      rect:
+        serializedVersion: 2
+        x: 2522
+        y: 4427
+        width: 322
+        height: 845
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47feeb097994da746b585f3f4b484afb
+      internalID: -525002663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Correr personaje principal cursed locks_3
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 4427
+        width: 322
+        height: 845
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c600c4fd1ca12314b8645904bd59e6d8
+      internalID: 211906481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Correr personaje principal cursed locks_4
+      rect:
+        serializedVersion: 2
+        x: 4626
+        y: 4444
+        width: 417
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34fcc1f86ca0cf54f88b91911851f572
+      internalID: -1880735813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Correr personaje principal cursed locks_5
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 3366
+        width: 417
+        height: 828
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87cbb71bf153a4c468daf364ff83f81d
+      internalID: 1616630982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Correr personaje principal cursed locks_6
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 3368
+        width: 427
+        height: 823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe699e9886353544b63565d46116014
+      internalID: -1004918415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Correr personaje principal cursed locks_7
+      rect:
+        serializedVersion: 2
+        x: 2485
+        y: 3368
+        width: 430
+        height: 823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700979e47abd2a84a8a4210062b6fe0f
+      internalID: 1237574952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Correr personaje principal cursed locks_8
+      rect:
+        serializedVersion: 2
+        x: 3582
+        y: 3340
+        width: 340
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d266f6c2280412341b7e5f1bd4bdb538
+      internalID: -2006917461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Correr personaje principal cursed locks_9
+      rect:
+        serializedVersion: 2
+        x: 4663
+        y: 3339
+        width: 340
+        height: 849
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b514c31a264b144ab9cb8a70994a40f
+      internalID: -123425598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Correr personaje principal cursed locks_10
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 2261
+        width: 308
+        height: 852
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef7e2f6bd694fa4380cbce7de7fc8a0
+      internalID: -184326077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Correr personaje principal cursed locks_11
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 2261
+        width: 306
+        height: 852
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55416173b47ee148bc450763b7a9a1d
+      internalID: -493765370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Correr personaje principal cursed locks_12
+      rect:
+        serializedVersion: 2
+        x: 2562
+        y: 2261
+        width: 316
+        height: 852
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de80ef27d7836f94aa09de1adcdc48f4
+      internalID: 1314334139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Correr personaje principal cursed locks_13
+      rect:
+        serializedVersion: 2
+        x: 3643
+        y: 2261
+        width: 316
+        height: 852
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce853a040850ecc4b92cabb412a166be
+      internalID: -2093884086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Correr personaje principal cursed locks_14
+      rect:
+        serializedVersion: 2
+        x: 4708
+        y: 2261
+        width: 380
+        height: 852
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7379ca2d614413d4d9d100628cc4c600
+      internalID: 1868631964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Correr personaje principal cursed locks_15
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1180
+        width: 380
+        height: 852
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd361b1f216a8741b2ee0342e34f382
+      internalID: 353514736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Correr personaje principal cursed locks_16
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 1196
+        width: 416
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b6531deea66fb428d8fb6cdb525d1d
+      internalID: 1582721467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Correr personaje principal cursed locks_17
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 1206
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c072321552a0eb74996d2c67f617c6a8
+      internalID: -1840688605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Correr personaje principal cursed locks_18
+      rect:
+        serializedVersion: 2
+        x: 2533
+        y: 1196
+        width: 416
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199fa0cdd3cbdc3438a97678deba0c80
+      internalID: -1795761686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Correr personaje principal cursed locks_19
+      rect:
+        serializedVersion: 2
+        x: 2999
+        y: 1206
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b580ad3f69bc6674eb4f9cea2cca2df6
+      internalID: -1757324275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Correr personaje principal cursed locks_20
+      rect:
+        serializedVersion: 2
+        x: 3595
+        y: 1185
+        width: 454
+        height: 847
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694d3d04a708b5847bdea93e573dc8bb
+      internalID: 1335833906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Correr personaje principal cursed locks_21
+      rect:
+        serializedVersion: 2
+        x: 4676
+        y: 1185
+        width: 454
+        height: 847
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f66139288bd83c46a80e0903f36c477
+      internalID: -2053575678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Correr personaje principal cursed locks_22
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 99
+        width: 414
+        height: 852
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b308c0e24647b43aab31575bb28b1a
+      internalID: 434377380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Correr personaje principal cursed locks_23
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 99
+        width: 416
+        height: 852
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ccee89aa7609b488409ecaf6a38acd
+      internalID: 457450214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Correr personaje principal cursed locks_0: -255627113
+      Correr personaje principal cursed locks_1: -1347168289
+      Correr personaje principal cursed locks_10: -184326077
+      Correr personaje principal cursed locks_11: -493765370
+      Correr personaje principal cursed locks_12: 1314334139
+      Correr personaje principal cursed locks_13: -2093884086
+      Correr personaje principal cursed locks_14: 1868631964
+      Correr personaje principal cursed locks_15: 353514736
+      Correr personaje principal cursed locks_16: 1582721467
+      Correr personaje principal cursed locks_17: -1840688605
+      Correr personaje principal cursed locks_18: -1795761686
+      Correr personaje principal cursed locks_19: -1757324275
+      Correr personaje principal cursed locks_2: -525002663
+      Correr personaje principal cursed locks_20: 1335833906
+      Correr personaje principal cursed locks_21: -2053575678
+      Correr personaje principal cursed locks_22: 434377380
+      Correr personaje principal cursed locks_23: 457450214
+      Correr personaje principal cursed locks_3: 211906481
+      Correr personaje principal cursed locks_4: -1880735813
+      Correr personaje principal cursed locks_5: 1616630982
+      Correr personaje principal cursed locks_6: -1004918415
+      Correr personaje principal cursed locks_7: 1237574952
+      Correr personaje principal cursed locks_8: -2006917461
+      Correr personaje principal cursed locks_9: -123425598
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

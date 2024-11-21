@@ -7,5 +7,32 @@ EditorBuildSettings:
   m_Scenes:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: c7e3a8cc8f557694f8108cf897c023b6
+  - enabled: 1
+    path: Assets/Scenes/Kitchen.unity
+    guid: cef089a6deb3cdf41819d67221ed2d16
+  - enabled: 1
+    path: Assets/Scenes/Bathroom.unity
+    guid: ffc33f2e6fd06304cb487432977b0b30
+  - enabled: 1
+    path: Assets/Scenes/Pasillo.unity
+    guid: 86df40d69474a3743b2ef002d0f799c2
+  - enabled: 1
+    path: Assets/Scenes/Room1.unity
+    guid: 77aa59d86c9e8494e91ad8d00faa93e3
+  - enabled: 1
+    path: Assets/Scenes/Room2.unity
+    guid: 0c0928de68fc45143a31555ca427bdd8
+  - enabled: 1
+    path: Assets/Scenes/Sala.unity
+    guid: 36afa84dbaa1ad743b03a0595b961623
+  - enabled: 1
+    path: Assets/Scenes/Sotano.unity
+    guid: 73b8db9d236692946a1ee2629dd5e71b
+  - enabled: 1
+    path: Assets/Scenes/Pasillo2.unity
+    guid: 84200c05f2004f14087a87e0b56c3d1e
   m_configObjects: {}
